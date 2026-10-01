@@ -11,6 +11,7 @@ A curated list of awesome [Artificial Life](https://en.wikipedia.org/wiki/Artifi
 - **project-origin** - Simulator for investigating Noogenesis. [[code]](https://github.com/kourgeorge/project-origin)
 - **Grovolve** - Simulator for evolution by natural selection for plants. [[code]](https://github.com/rrwick/Grovolve)
 - **Evochora** - Distributed lab investigating the physics of Open-Ended Evolution [[code]](https://github.com/evochora/evochora)
+- **MICA** - Language model built from a learned integer-rule cellular automaton; try it in the browser. [[code]](https://github.com/Vovala14/Mica-Ai) [[demo]](https://mica-ai-ten.vercel.app)
 
 ### Journals
 - **Artificial Life** [[journal]](https://www.mitpressjournals.org/loi/artl)
