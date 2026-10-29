@@ -11,6 +11,7 @@ A curated list of awesome [Artificial Life](https://en.wikipedia.org/wiki/Artifi
 - **project-origin** - Simulator for investigating Noogenesis. [[code]](https://github.com/kourgeorge/project-origin)
 - **Grovolve** - Simulator for evolution by natural selection for plants. [[code]](https://github.com/rrwick/Grovolve)
 - **Evochora** - Distributed lab investigating the physics of Open-Ended Evolution [[code]](https://github.com/evochora/evochora)
+- **CAEL** - Non-neural assistant built on an integer cellular automaton plus symbolic engines (source-available, non-commercial). [[code]](https://github.com/Vovala14/CAEL) [[release]](https://github.com/Vovala14/CAEL/releases/tag/v0.3.7)
 
 ### Journals
 - **Artificial Life** [[journal]](https://www.mitpressjournals.org/loi/artl)
